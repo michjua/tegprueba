@@ -1,6 +1,6 @@
-
 public class Ejercito {
 
-int soldados;	
+	int nombre;
+
 	
 }
