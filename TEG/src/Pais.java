@@ -36,7 +36,7 @@ public class Pais {
 	}
 	@Override
 	public String toString() {
-		return "Pais [nombrePais=" + nombrePais + ", x=" + x + ", y=" + y + "]";
+		return "Pais [nombre del Pais=" + nombrePais + ", x=" + x + ", y=" + y + "]";
 	}
 	
 	
